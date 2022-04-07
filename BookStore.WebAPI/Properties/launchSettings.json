@@ -1,0 +1,37 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:3185",
+      "sslPort": 44303
+    }
+  },
+  "profiles": {
+    "BookStore.WebAPI": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7010;http://localhost:5010",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DATABASE_NAME": "myFirstDatabase",
+        "BOOK_COLLECTION_NAME": "Books",
+        "AUTHOR_COLLECTION_NAME": "Authors"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DATABASE_NAME": "myFirstDatabase",
+        "BOOK_COLLECTION_NAME": "Books",
+        "AUTHOR_COLLECTION_NAME": "Authors"
+      }
+    }
+  }
+}
