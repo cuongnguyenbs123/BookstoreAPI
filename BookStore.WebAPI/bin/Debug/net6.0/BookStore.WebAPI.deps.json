@@ -9,6 +9,7 @@
       "BookStore.WebAPI/1.0.0": {
         "dependencies": {
           "BookStore.Core": "1.0.0",
+          "BookStore.Infrastructure": "1.0.0",
           "Microsoft.Extensions.Options": "6.0.0",
           "MongoDB.Bson": "2.15.0",
           "MongoDB.Driver": "2.15.0",
@@ -222,6 +223,11 @@
         "runtime": {
           "BookStore.Core.dll": {}
         }
+      },
+      "BookStore.Infrastructure/1.0.0": {
+        "runtime": {
+          "BookStore.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -379,6 +385,11 @@
       "hashPath": "system.security.principal.windows.5.0.0.nupkg.sha512"
     },
     "BookStore.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookStore.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

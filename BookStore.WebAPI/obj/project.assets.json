@@ -350,6 +350,16 @@
         "runtime": {
           "bin/placeholder/BookStore.Core.dll": {}
         }
+      },
+      "BookStore.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BookStore.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookStore.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -939,11 +949,17 @@
       "type": "project",
       "path": "../BookStore.Core/BookStore.Core.csproj",
       "msbuildProject": "../BookStore.Core/BookStore.Core.csproj"
+    },
+    "BookStore.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../BookStore.Infrastructure/BookStore.Infrastructure.csproj",
+      "msbuildProject": "../BookStore.Infrastructure/BookStore.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "BookStore.Core >= 1.0.0",
+      "BookStore.Infrastructure >= 1.0.0",
       "Microsoft.Extensions.Options >= 6.0.0",
       "MongoDB.Bson >= 2.15.0",
       "MongoDB.Driver >= 2.15.0",
@@ -979,6 +995,9 @@
           "projectReferences": {
             "C:\\Users\\a\\source\\repos\\BookStore.WebAPI\\BookStore.Core\\BookStore.Core.csproj": {
               "projectPath": "C:\\Users\\a\\source\\repos\\BookStore.WebAPI\\BookStore.Core\\BookStore.Core.csproj"
+            },
+            "C:\\Users\\a\\source\\repos\\BookStore.WebAPI\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\a\\source\\repos\\BookStore.WebAPI\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj"
             }
           }
         }

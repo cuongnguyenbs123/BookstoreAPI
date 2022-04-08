@@ -1,0 +1,12 @@
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\bin\Debug\net6.0\BookStore.Infrastructure.deps.json
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\bin\Debug\net6.0\BookStore.Infrastructure.dll
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\bin\Debug\net6.0\ref\BookStore.Infrastructure.dll
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\bin\Debug\net6.0\BookStore.Infrastructure.pdb
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.AssemblyInfo.cs
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.dll
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\obj\Debug\net6.0\ref\BookStore.Infrastructure.dll
+C:\Users\a\source\repos\BookStore.WebAPI\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.pdb
